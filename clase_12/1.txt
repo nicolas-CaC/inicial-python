@@ -1,0 +1,9 @@
+id, nombre, edicion, anio, lenguaje, autor
+id, nombre, edicion, anio, lenguaje, autor
+id, nombre, edicion, anio, lenguaje, autor
+id, nombre, edicion, anio, lenguaje, autor
+id, nombre, edicion, anio, lenguaje, autor
+
+Juan            23
+Domingo         24
+Juan Domingo    25
